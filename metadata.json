@@ -1,0 +1,6 @@
+{
+  "name": "Doorbly",
+  "description": "Doorbly customer booking app for on-demand doorstep repairs, maintenance, cleaning, appliance, and local professional services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
